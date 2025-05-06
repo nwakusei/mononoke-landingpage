@@ -63,9 +63,9 @@ footer {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	color: #ffffff;
 }
 
-footer i {
+footer a i {
 	cursor: pointer;
+	color: #ffffff;
 }
