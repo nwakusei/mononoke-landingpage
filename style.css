@@ -137,6 +137,10 @@ footer a i {
     text-align: center;
   }
 
+  footer h2 {
+    color: #ffffff;
+  }
+
   footer a i {
     font-size: 20px;
   }
